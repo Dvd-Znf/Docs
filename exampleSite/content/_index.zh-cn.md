@@ -35,12 +35,6 @@ layout: Tech-Art 官方文档
     link="docs/one-calendar"
   >}}
   {{< hextra/feature-card
-    title="White Cloud"
-    subtitle="简单的分布式去中心化联合社交媒体"
-    style="background: radial-gradient(ellipse at 50% 80%, rgba(53, 142, 174, 0.15), hsla(0, 0%, 100%, 0));"
-    link="https://wcapp.dpdns.org"
-  >}}
-  {{< hextra/feature-card
     title="Mail"
     subtitle="使用自定义域名发送邮件"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(255, 204, 0, 0.15), hsla(0, 0%, 100%, 0));"
